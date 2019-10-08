@@ -71,5 +71,7 @@ python-stdnum==1.10
 six==1.10.0
 # tornado==5.1.1
 # vcrpy==2.0.1
+pyotp==2.3.0
+zxcvbn==4.4.28
 
 backports-datetime-fromisoformat ; python_version < '3.7'
